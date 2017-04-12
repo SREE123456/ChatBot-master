@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChatBot</string>
+    <string name="action_log">Log</string>
+    <string name="title_activity_pie">Pie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tryin">Tryin</string>
+    <string name="title_activity_piecom">Piecom</string>
+
+
+
+</resources>
